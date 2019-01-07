@@ -1,0 +1,192 @@
+{
+  "project_info": {
+    "project_number": "1077173991171",
+    "firebase_url": "https://tree-and-forest.firebaseio.com",
+    "project_id": "tree-and-forest",
+    "storage_bucket": "tree-and-forest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077173991171:android:7fe358dc30f3a7fb",
+        "android_client_info": {
+          "package_name": "com.safe.macbros.hands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077173991171-0pung66stgshv4b32ippjmkro2qa6pui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safe.macbros.hands",
+            "certificate_hash": "1df70eb0af2f35505d504e283c0a3683f19ea8aa"
+          }
+        },
+        {
+          "client_id": "1077173991171-lsskgtbit4l6bc5v23glf4cg3g4j1qsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMicpi8FoUhSqp6MHsxAbSwZsTseN1Ip4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077173991171-lsskgtbit4l6bc5v23glf4cg3g4j1qsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077173991171:android:15ba236c56fef70b",
+        "android_client_info": {
+          "package_name": "com.safe.macbros.jump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077173991171-bvfbqnj532u7n30n4hf74garqpd1cn21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safe.macbros.jump",
+            "certificate_hash": "1df70eb0af2f35505d504e283c0a3683f19ea8aa"
+          }
+        },
+        {
+          "client_id": "1077173991171-lsskgtbit4l6bc5v23glf4cg3g4j1qsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMicpi8FoUhSqp6MHsxAbSwZsTseN1Ip4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077173991171-lsskgtbit4l6bc5v23glf4cg3g4j1qsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077173991171:android:a93f4402a725d5c0",
+        "android_client_info": {
+          "package_name": "com.safe.macbros.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077173991171-lsskgtbit4l6bc5v23glf4cg3g4j1qsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMicpi8FoUhSqp6MHsxAbSwZsTseN1Ip4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077173991171:android:001523ea7eb1e403",
+        "android_client_info": {
+          "package_name": "com.safe.macbros.stuck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077173991171-lsskgtbit4l6bc5v23glf4cg3g4j1qsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMicpi8FoUhSqp6MHsxAbSwZsTseN1Ip4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077173991171:android:49c4a3dc68d5ddee",
+        "android_client_info": {
+          "package_name": "com.safe.macbros.treeandforest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077173991171-lsskgtbit4l6bc5v23glf4cg3g4j1qsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMicpi8FoUhSqp6MHsxAbSwZsTseN1Ip4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
